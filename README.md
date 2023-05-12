@@ -62,7 +62,7 @@ In addition, a low-stakes quiz before a class sets the intention of the student 
 - Knowledge checks
 - A challenge
 - Supplemental reading
-- Assignment
+- Assignments
 - Post-lesson quiz
 
 > **A note about quizzes**: All quizzes are contained [in this app](https://purple-hill-04aebfb03.1.azurestaticapps.net/), for 40 total quizzes of three questions each. They are linked from within the lessons, but the quiz app can be run locally; follow the instruction in the `quiz-app` folder. They are gradually being localized.
